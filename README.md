@@ -8,7 +8,7 @@ Tiny app checking whether the given input is a prime number or not.
             string yes = "TAK";
             string no = "NIE";
 
-            Console.WriteLine("Wprowadzaj liczby całkowite celem sprawdzenia, czy są liczbami pierwszymi. Wprowadź 0, by zakończyć.");
+            Console.WriteLine("Input integers to check if they're prime numbers. Give 0 to exit.");
 
             while (true)
             {
